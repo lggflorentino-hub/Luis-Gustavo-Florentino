@@ -1,5 +1,5 @@
 # Luis-Gustavo-Florentino
-ADS | Desenvolvedor back-end em formação. Atualmente desenvolvendo um sistema de agendamento online para o setor de barbearias.
+Análise e Desenvolvimento de Sistemas | Desenvolvedor back-end em formação. Atualmente desenvolvendo um sistema de agendamento online para o setor de barbearias.
 
 # 👋 Olá, eu sou Luis Gustavo 
 
